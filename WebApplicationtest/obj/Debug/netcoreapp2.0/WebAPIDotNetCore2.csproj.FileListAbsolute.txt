@@ -1,0 +1,22 @@
+C:\Users\emon\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.0\WebAPIDotNetCore2.deps.json
+C:\Users\emon\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.0\WebAPIDotNetCore2.runtimeconfig.json
+C:\Users\emon\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.0\WebAPIDotNetCore2.runtimeconfig.dev.json
+C:\Users\emon\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.0\WebAPIDotNetCore2.dll
+C:\Users\emon\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.0\WebAPIDotNetCore2.pdb
+C:\Users\emon\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.0\WebAPIDotNetCore2.csprojResolveAssemblyReference.cache
+C:\Users\emon\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.0\WebAPIDotNetCore2.csproj.CoreCompileInputs.cache
+C:\Users\emon\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.0\WebAPIDotNetCore2.AssemblyInfoInputs.cache
+C:\Users\emon\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.0\WebAPIDotNetCore2.AssemblyInfo.cs
+C:\Users\emon\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.0\WebAPIDotNetCore2.dll
+C:\Users\emon\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.0\WebAPIDotNetCore2.pdb
+D:\My Folder\DevWork\Projects\GitHub\WebAPIDotNetCore2\WebApplicationtest\bin\Debug\netcoreapp2.0\WebAPIDotNetCore2.deps.json
+D:\My Folder\DevWork\Projects\GitHub\WebAPIDotNetCore2\WebApplicationtest\bin\Debug\netcoreapp2.0\WebAPIDotNetCore2.runtimeconfig.json
+D:\My Folder\DevWork\Projects\GitHub\WebAPIDotNetCore2\WebApplicationtest\bin\Debug\netcoreapp2.0\WebAPIDotNetCore2.runtimeconfig.dev.json
+D:\My Folder\DevWork\Projects\GitHub\WebAPIDotNetCore2\WebApplicationtest\bin\Debug\netcoreapp2.0\WebAPIDotNetCore2.dll
+D:\My Folder\DevWork\Projects\GitHub\WebAPIDotNetCore2\WebApplicationtest\bin\Debug\netcoreapp2.0\WebAPIDotNetCore2.pdb
+D:\My Folder\DevWork\Projects\GitHub\WebAPIDotNetCore2\WebApplicationtest\obj\Debug\netcoreapp2.0\WebAPIDotNetCore2.csprojResolveAssemblyReference.cache
+D:\My Folder\DevWork\Projects\GitHub\WebAPIDotNetCore2\WebApplicationtest\obj\Debug\netcoreapp2.0\WebAPIDotNetCore2.csproj.CoreCompileInputs.cache
+D:\My Folder\DevWork\Projects\GitHub\WebAPIDotNetCore2\WebApplicationtest\obj\Debug\netcoreapp2.0\WebAPIDotNetCore2.AssemblyInfoInputs.cache
+D:\My Folder\DevWork\Projects\GitHub\WebAPIDotNetCore2\WebApplicationtest\obj\Debug\netcoreapp2.0\WebAPIDotNetCore2.AssemblyInfo.cs
+D:\My Folder\DevWork\Projects\GitHub\WebAPIDotNetCore2\WebApplicationtest\obj\Debug\netcoreapp2.0\WebAPIDotNetCore2.dll
+D:\My Folder\DevWork\Projects\GitHub\WebAPIDotNetCore2\WebApplicationtest\obj\Debug\netcoreapp2.0\WebAPIDotNetCore2.pdb

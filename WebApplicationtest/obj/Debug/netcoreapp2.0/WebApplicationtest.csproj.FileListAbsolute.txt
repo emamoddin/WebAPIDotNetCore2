@@ -1,0 +1,11 @@
+c:\users\emon\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.0\WebApplicationtest.deps.json
+c:\users\emon\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.0\WebApplicationtest.runtimeconfig.json
+c:\users\emon\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.0\WebApplicationtest.runtimeconfig.dev.json
+c:\users\emon\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.0\WebApplicationtest.dll
+c:\users\emon\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.0\WebApplicationtest.pdb
+c:\users\emon\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.0\WebApplicationtest.csprojResolveAssemblyReference.cache
+c:\users\emon\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.0\WebApplicationtest.csproj.CoreCompileInputs.cache
+c:\users\emon\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.0\WebApplicationtest.AssemblyInfoInputs.cache
+c:\users\emon\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.0\WebApplicationtest.AssemblyInfo.cs
+c:\users\emon\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.0\WebApplicationtest.dll
+c:\users\emon\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.0\WebApplicationtest.pdb
